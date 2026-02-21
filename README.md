@@ -1,5 +1,5 @@
 # 💫 About Me:
-I don’t just study technology — I prepare to lead it.<br>I am building myself at the intersection of cybersecurity, cloud computing, and innovation. My focus is not only on understanding systems, but mastering them — securing them, scaling them, and transforming them.<br>I believe the future belongs to those who think long-term, move strategically, and execute relentlessly. Every skill I acquire is part of a larger blueprint: to create, to innovate, and to build solutions that operate beyond borders.<br>I am driven by vision, disciplined by purpose, and committed to growth. This is not a career path — it’s a mission.
+I don’t just study technology — I prepare to lead it.<br>I am building myself at the intersection of cybersecurity, cloud computing, and innovation. My focus is not only on understanding systems, but mastering them — securing them, scaling them, and transforming them.<br>I believe the future belongs to those who think long-term, move strategically, and execute relentlessly. Every skill I acquire is part of a larger blueprint: to create, to innovate, and to build solutions that operate beyond borders.<br>I am driven by vision, disciplined by purpose, and committed to growth. This is not a career path — it’s a mission. Hooray 🎉 
 
 
 ## 🌐 Socials:

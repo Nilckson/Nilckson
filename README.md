@@ -1,2 +1,21 @@
-# 💫 About Me:
-I don’t just study technology — I prepare to lead it.<br>I am building myself at the intersection of cybersecurity, cloud computing, and innovation. My focus is not only on understanding systems, but mastering them — securing them, scaling them, and transforming them.<br>I believe the future belongs to those who think long-term, move strategically, and execute relentlessly. Every skill I acquire is part of a larger blueprint: to create, to innovate, and to build solutions that operate beyond borders.<br>I am driven by vision, disciplined by purpose, and committed to growth. This is not a career path — it’s a mission. Hooray 🎉
+### Hi there, I'm Nilckson 👋
+
+I'm a software developer who enjoys blending rigorous engineering with creative problem-solving—which makes me a **professional vibecoder** at heart. 
+
+Whether I'm writing backend logic, exploring the latest in ML, or making sure systems are locked down securely, I love the process of turning ideas into reality.
+
+#### 🚀 What I do
+- 💻 **Software Development:** Building clean, scalable, and functional applications.
+- 🤖 **Machine Learning:** Exploring how data and algorithms can build smarter software.
+- 🔐 **Cybersecurity:** Dabbling in infosec to understand how systems break, so I can build them better.
+
+#### ⚡ Quick Facts
+- 🔭 I’m currently focused on the intersection of **Software Engineering and AI**.
+- 🌱 Always learning more about defensive programming and system security.
+- 💬 Ask me about: Code architecture, ML models, or how to properly vibe while coding.
+
+<br>
+
+<p align="center">
+  <i>"Code like an engineer, vibe like an artist."</i>
+</p>

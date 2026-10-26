@@ -22,4 +22,3 @@ I’m concentrating on the intersection of **software engineering and AI**, cont
 
 ---
 
-*Generated with Claude Code (https://claude.com/claude-code)*

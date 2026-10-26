@@ -1,21 +1,25 @@
-### Hi there, I'm Nilckson 👋
+# Nilckson
 
-I'm a software developer who enjoys blending rigorous engineering with creative problem-solving—which makes me a **professional vibecoder** at heart. 
+I’m a software developer who blends rigorous engineering with creative problem‑solving. My work focuses on building clean, scalable applications, experimenting with machine learning, and strengthening security through defensive programming.
 
-Whether I'm writing backend logic, exploring the latest in ML, or making sure systems are locked down securely, I love the process of turning ideas into reality.
+## What I Do
 
-#### 🚀 What I do
-- 💻 **Software Development:** Building clean, scalable, and functional applications.
-- 🤖 **Machine Learning:** Exploring how data and algorithms can build smarter software.
-- 🔐 **Cybersecurity:** Dabbling in infosec to understand how systems break, so I can build them better.
+- **Software Development:** Write maintainable, production‑ready code for backend and frontend systems.
+- **Machine Learning:** Explore data‑driven approaches to enhance software capabilities.
+- **Cybersecurity:** Identify and mitigate security risks, applying best‑in‑class defensive techniques.
 
-#### ⚡ Quick Facts
-- 🔭 I’m currently focused on the intersection of **Software Engineering and AI**.
-- 🌱 Always learning more about defensive programming and system security.
-- 💬 Ask me about: Code architecture, ML models, or how to properly vibe while coding.
+## Current Focus
 
-<br>
+I’m concentrating on the intersection of **software engineering and AI**, continuously learning about defensive programming and system security.
 
-<p align="center">
-  <i>"Code like an engineer, vibe like an artist."</i>
-</p>
+## Quick Facts
+
+- **Primary Interests:** Code architecture, ML models, secure software design.
+- **Open‑Source Contributions:** Actively maintain and contribute to various projects.
+- **Contact:** 136057744+Nilckson@users.noreply.github.com (Git commit author)
+
+> “Code like an engineer; think like an artist.”
+
+---
+
+*Generated with Claude Code (https://claude.com/claude-code)*
